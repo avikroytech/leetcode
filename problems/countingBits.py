@@ -1,5 +1,5 @@
 class Solution:
-    def countBits(self, n: int) -> List[int]:
+    def countBits(self, n: int) -> list[int]:
         bitCount = []
 
         for i in range(n+1):
